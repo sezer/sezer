@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[linkedin](https://www.linkedin.com/in/sezerbaytar/)
+
 <!--
 **sezer/sezer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
